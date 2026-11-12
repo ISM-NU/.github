@@ -10,6 +10,9 @@ dust polarization and starlight polarization.
 - [VGT.jl](https://github.com/ISM-NU/VGT.jl) — the Velocity Gradient Technique
   in Julia: plane-of-sky magnetic-field orientation from spectral-line cubes,
   with validated estimators, noise models and sky-frame angle conversion.
+- [ROHSA-LMC](https://github.com/ISM-NU/ROHSA-LMC) — ROHSA Gaussian
+  decomposition (Marchal et al. 2019) with OpenMP speed-ups, velocity-layer
+  cubes and disk de-rotation for LMC H I.
 - [LMC-shells](https://github.com/ISM-NU/LMC-shells) — optical supergiant
   shells in the LMC compared with VGT field maps and Planck.
 
